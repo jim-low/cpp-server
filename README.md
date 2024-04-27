@@ -10,9 +10,9 @@
 - [ ] What is Hosting?
 
 ### Basics of Frontend Languages
-- [ ] HTML
-- [ ] CSS
-- [ ] JavaScript
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
 
 ### Learn a Backend Language
 - [ ] C++
@@ -20,8 +20,8 @@
 - [ ] Java
 
 ### Learn Version Control System
-- [ ] Basic Git Commands
-- [ ] Repo Hosting Services (GitHub)
+- [x] Basic Git Commands
+- [x] Repo Hosting Services (GitHub)
 
 ### Learn Relational Databases
 - [ ] MySQL
